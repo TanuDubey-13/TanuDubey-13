@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Resume Analyzer](https://tanudubey-13.github.io/Resume-Analyzer/)
 
-- 🌱 I’m currently learning **Advanced Python , DBMS**
+- 🌱 I’m currently learning **backend , Advanced Python**
 
 - 📫 How to reach me **tanudubey13012005@gmail.com**
 
