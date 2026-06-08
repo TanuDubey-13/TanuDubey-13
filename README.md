@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on [Resume Analyzer](https://tanudubey-13.github.io/Resume-Analyzer/)
 
 - 🌱 I’m currently learning **backend , Advanced Python**
+[![trophy](https://github-profile-trophy.vercel.app/?tanudubey-13=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 📫 How to reach me **tanudubey13012005@gmail.com**
 
