@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanudubey-13" alt="tanudubey-13" /></a> </p>
 
-- 🔭 I’m currently working on [Resume Analyzer](https://tanudubey-13.github.io/Resume-Analyzer/)
+- 🔭 I’m currently working on [CleanAir-guardian-ai](https://tanudubey-13.github.io/CleanAir-guardian-ai/)
 
-- 🌱 I’m currently learning **backend , Advanced Python**
+- 🌱 I’m currently learning **backend , Advanced Python and DSA**
 
 
 - 📫 How to reach me **tanudubey13012005@gmail.com**
