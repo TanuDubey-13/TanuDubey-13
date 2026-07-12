@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanudubey-13&label=Profile%20views&color=0e75b6&style=flat" alt="tanudubey-13" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanudubey-13" alt="tanudubey-13" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanudubey-13" alt="tanudubey-13" /></a> </p> -->
 
 - 🔭 I’m currently working on [CleanAir-guardian-ai](https://tanudubey-13.github.io/CleanAir-guardian-ai/)
 
