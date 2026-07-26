@@ -34,7 +34,8 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=TanuDubey-13&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TanuDubey-13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=TanuDubey-13&theme=radical)
 
 
 
