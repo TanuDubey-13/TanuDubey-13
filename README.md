@@ -35,7 +35,7 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=TanuDubey-13&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=TanuDubey-13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
