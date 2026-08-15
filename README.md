@@ -37,7 +37,11 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=TanuDubey-13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### 🚀 Open Source Contributions
 
+* **Elite Coders Summer of Code (ECSOC) 2026** | *Contributor (Beginner Tier)*
+  * Contributed to the frontend codebase of **CampusConnect**, focusing on user interface components.
+  * Collaborated with repository maintainers using Git and GitHub pull request workflows.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
