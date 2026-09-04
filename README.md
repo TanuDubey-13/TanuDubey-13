@@ -33,9 +33,19 @@
 ![](https://streak-stats.demolab.com/?user=TanuDubey-13&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=TanuDubey-13&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+<h2 align="center">🔝 Top Contributed Repo</h2>
 
-![](https://github-profile-trophy.vercel.app/?username=TanuDubey-13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=TanuDubey-13&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+<p align="center">
+<img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=TanuDubey-13&theme=radical&radius=10" alt="TanuDubey-13's Activity Graph" />
+</p>
+ 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
 ### 🚀 Open Source Contributions
 
