@@ -44,6 +44,21 @@
 * **Elite Coders Summer of Code (ECSOC) 2026** | *Contributor (Beginner Tier)*
   * Contributed to the frontend codebase of **CampusConnect**, focusing on user interface components.
   * Collaborated with repository maintainers using Git and GitHub pull request workflows.
+ 
+<h2 align="center">📊 GitHub Stats:</h2>
+
+<div align="center">
+
+<img height="169em" src="https://streak-stats.demolab.com/?user=TanuDubey-13&theme=radical&border=true&cache_seconds=86400" alt="TanuDubey-13's GitHub Streak">
+<img height="169em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TanuDubey-13&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+<img height="169em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TanuDubey-13&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="TanuDubey-13's GitHub Stats" />
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TanuDubey-13&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TanuDubey-13&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TanuDubey-13&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TanuDubey-13&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TanuDubey-13&theme=radical&utcOffset=8">
+
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
